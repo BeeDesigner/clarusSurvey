@@ -1,0 +1,25 @@
+html {
+  border: 2px double black;
+  margin: 1em;
+}
+main {
+  /* background-color: #ffd384; */
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  margin: 0.5em;
+  background-color: #ffd384;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+span {
+  font-style: oblique;
+  font-variant: small-caps;
+}
+submit {
+  text-align: center;
+}
